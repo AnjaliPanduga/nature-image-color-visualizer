@@ -84,5 +84,3 @@ Anjali Panduga
 ⭐ This is a mini image processing and visualization project showcasing
 Python, NumPy, and Streamlit skills.
 
-yaml
-Copy code
