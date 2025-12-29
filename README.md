@@ -1,5 +1,11 @@
 # 🌿 Nature Image Color Channel Visualizer
 
+## Highlights
+- Visualizes individual RGB channels  
+- Converts images to grayscale  
+- Applies selectable colormaps  
+- Interactive UI with Streamlit
+
 ## 📌 Project Overview
 This project is an interactive **Streamlit-based image processing application**
 that visualizes RGB color channels and applies different colormaps to grayscale
