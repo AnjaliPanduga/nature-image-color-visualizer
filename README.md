@@ -50,7 +50,7 @@ pixel arrays and how color information is processed.
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
-2️⃣ Run the Streamlit app
+2️⃣ Run the app
 streamlit run app.py
 📁 Project Structure
 nature-image-color-visualizer/
