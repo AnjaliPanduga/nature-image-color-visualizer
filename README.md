@@ -51,12 +51,8 @@ pixel arrays and how color information is processed.
 ```bash
 pip install -r requirements.txt
 2️⃣ Run the Streamlit app
-bash
-Copy code
 streamlit run app.py
 📁 Project Structure
-css
-Copy code
 nature-image-color-visualizer/
 │
 ├── app.py
