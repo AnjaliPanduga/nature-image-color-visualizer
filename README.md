@@ -49,40 +49,34 @@ pixel arrays and how color information is processed.
 5. Convert image to grayscale
 6. Apply selected colormap dynamically using Streamlit
 
----
-
 ## 🚀 How to Run the Project
-
-### 1️⃣ Install dependencies
-```bash
+1. Clone the Repo
+```
+git clone https://github.com/AnjaliPanduga/nature-image-color-visualizer.git
+cd nature-image-color-visualizer
+```
+2. Install dependencies
+```
 pip install -r requirements.txt
-2️⃣ Run the app
+```
+3. Run the app
+```
 streamlit run app.py
+```
 📁 Project Structure
 nature-image-color-visualizer/
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
-📌 Learning Outcomes
-Understanding RGB and grayscale image representation
-
-Working with in-memory images using BytesIO
-
-Applying colormaps using Matplotlib
-
-Building interactive visualization apps using Streamlit
-
-🎤 Interview Explanation
-“This project demonstrates basic image processing concepts such as RGB
-channel separation and grayscale visualization. I used NumPy for pixel
-manipulation and built an interactive Streamlit application to visualize
-different colormaps dynamically.”
-
-📬 Contact
-Anjali Panduga
-🔗 GitHub: https://github.com/AnjaliPanduga
 
 ⭐ This is a mini image processing and visualization project showcasing
 Python, NumPy, and Streamlit skills.
+
+👩‍💻 Author
+Anjali Panduga
+📧 Email: pandugaanjali2003@gmail.com
+🔗 GitHub: https://github.com/AnjaliPanduga
+
+
 
