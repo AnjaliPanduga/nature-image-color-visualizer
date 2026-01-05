@@ -64,12 +64,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 📁 Project Structure
+```
 nature-image-color-visualizer/
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 ⭐ This is a mini image processing and visualization project showcasing
 Python, NumPy, and Streamlit skills.
 
