@@ -1,10 +1,14 @@
 # 🌿 Nature Image Color Channel Visualizer
 
+---
+
 ## Highlights
 - Visualizes individual RGB channels  
 - Converts images to grayscale  
 - Applies selectable colormaps  
 - Interactive UI with Streamlit
+
+---
 
 ## 📌 Project Overview
 This project is an interactive **Streamlit-based image processing application**
@@ -49,6 +53,8 @@ pixel arrays and how color information is processed.
 5. Convert image to grayscale
 6. Apply selected colormap dynamically using Streamlit
 
+---
+
 ## 🚀 How to Run the Project
 1. Clone the Repo
 ```
@@ -68,16 +74,24 @@ streamlit run app.py
 nature-image-color-visualizer/
 │
 ├── app.py
+├── nature.jpg
 ├── requirements.txt
 └── README.md
+
 ```
+
+---
+
 ⭐ This is a mini image processing and visualization project showcasing
 Python, NumPy, and Streamlit skills.
 
 👩‍💻 Author
+
 Anjali Panduga
+
 📧 Email: pandugaanjali2003@gmail.com
+
 🔗 GitHub: https://github.com/AnjaliPanduga
 
-
+---
 
